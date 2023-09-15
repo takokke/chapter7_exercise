@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.main-visual {
+  background-image: url(img/mv.jpg);
+  height: 400px;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-title {
+  padding: 20px 0 0 20px;
+}
+
+.main-content {
+  width: 840px;
+  margin: 0 auto;
+  padding: 50px 0 20px 0;
+}
+
+section {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.2);
+}
+
+.course-text {
+  margin-top: 10px;
+}
+
+.course-text p {
+  margin-bottom: 8px;
+}
